@@ -197,8 +197,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 InlineKeyboardButton("SEARCH SONGS INLINE", switch_inline_query_current_chat=""),
             ],
             [
-                InlineKeyboardButton("CHANNEL", url="https://t.me/International_chatting_Legends"),
-                InlineKeyboardButton("SUPPORT", url="https://t.me/truewildthoughts"),
+                InlineKeyboardButton("CHANNEL", url="https://t.me/truewildthoughts"),
+                InlineKeyboardButton("SUPPORT", url="https://t.me/International_chatting_Legends"),
             ],
             [
                 InlineKeyboardButton("MORE BOTS", url="https://t.me/Verocietta_Group/1"),
@@ -224,8 +224,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 InlineKeyboardButton("SEARCH SONGS INLINE", switch_inline_query_current_chat=""),
             ],
             [
-                InlineKeyboardButton("CHANNEL", url="https://t.me/International_chatting_Legends"),
-                InlineKeyboardButton("SUPPORT", url="https://t.me/truewildthoughts"),
+                InlineKeyboardButton("CHANNEL", url="https://t.me/truewildthoughts"),
+                InlineKeyboardButton("SUPPORT", url="https://t.me/International_chatting_Legends"),
             ],
             [
                 InlineKeyboardButton("MORE BOTS", url="https://t.me/Verocietta_Group/1"),
@@ -262,8 +262,8 @@ async def start(client, message):
                 InlineKeyboardButton("SEARCH SONGS INLINE", switch_inline_query_current_chat=""),
             ],
             [
-                InlineKeyboardButton("CHANNEL", url="https://t.me/International_chatting_Legends"),
-                InlineKeyboardButton("SUPPORT", url="https://t.me/truewildthoughts"),
+                InlineKeyboardButton("CHANNEL", url="https://t.me/truewildthoughts"),
+                InlineKeyboardButton("SUPPORT", url="https://t.me/International_chatting_Legends"),
             ],
             [
                 InlineKeyboardButton("MORE BOTS", url="https://t.me/Verocietta_Group/1"),
@@ -286,8 +286,8 @@ async def help(client, message):
                 InlineKeyboardButton("SEARCH SONGS INLINE", switch_inline_query_current_chat=""),
             ],
             [
-                InlineKeyboardButton("CHANNEL", url="https://t.me/International_chatting_Legends"),
-                InlineKeyboardButton("SUPPORT", url="https://t.me/Verocietta_Group"),
+                InlineKeyboardButton("CHANNEL", url="https://t.me/truewildthoughts"),
+                InlineKeyboardButton("SUPPORT", url="https://t.me/International_chatting_Legends"),
             ],
             [
                 InlineKeyboardButton("MORE BOTS", url="https://t.me/Verocietta_Group/1"),
