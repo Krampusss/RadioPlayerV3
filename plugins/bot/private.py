@@ -287,7 +287,7 @@ async def help(client, message):
             ],
             [
                 InlineKeyboardButton("CHANNEL", url="https://t.me/International_chatting_Legends"),
-                InlineKeyboardButton("SUPPORT", url="https://t.me/AsmSupport"),
+                InlineKeyboardButton("SUPPORT", url="https://t.me/Verocietta_Group"),
             ],
             [
                 InlineKeyboardButton("MORE BOTS", url="https://t.me/Verocietta_Group/1"),
