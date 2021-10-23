@@ -31,8 +31,8 @@ buttons = [
                 InlineKeyboardButton("❔ HOW TO USE ME ❔", callback_data="help"),
             ],
             [
-                InlineKeyboardButton("CHANNEL", url="https://t.me/International_chatting_Legends"),
-                InlineKeyboardButton("SUPPORT", url="https://t.me/truewildthoughts"),
+                InlineKeyboardButton("CHANNEL", url="https://t.me/truewildthoughts"),
+                InlineKeyboardButton("SUPPORT", url="https://t.me/International_chatting_Legends"),
             ],
             [
                 InlineKeyboardButton("🤖 MAKE YOUR OWN BOT 🤖", url="https://t.me/International_chatting_Legends"),
